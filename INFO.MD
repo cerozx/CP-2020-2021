@@ -7,16 +7,16 @@ Anyone who has access to this knows what this is for.
 C0DE R3D.2:
 Coach: Teri Mitchell
 
-Leader: Suyash Ojha
+CEO: Suyash Ojha - Windows/Scripting - **Leader
 
-Co-Leader: Hayden Smith
+Co-CEO: Hayden Smith - Windows/Linux - **Co-Leader
 
-Member: Daniel Hatfield 
+Manager: Kaden Kim - Networking - **Member
 
-Member: Kaden Kim
+Executive: Daniel Hatfield - Linux - **Member
 
-Member: Trent Hernendaz 
+Mercenary: Trent Hernendaz - Plug/Hopefully Windows - **Member
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-Spots could change so wait for the end of the year.
+*Spots could change so wait for the end of the year.
