@@ -19,4 +19,4 @@ Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-*Spots could change so wait for the end of the year.
+*Spots could change so wait for the end of the year.*
