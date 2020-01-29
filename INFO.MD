@@ -2,7 +2,11 @@
 
 Anyone who has access to this knows what this is for.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 C0DE R3D.2:
+Coach: Teri Mitchell
+
 Leader: Suyash Ojha
 
 Co-Leader: Hayden Smith
@@ -13,6 +17,6 @@ Member: Kaden Kim
 
 Member: Trent Hernendaz 
 
-Spots could change so wait for the end of the year.
+------------------------------------------------------------------------------------------------------------------------------------------
 
-Coach: Teri Mitchell
+Spots could change so wait for the end of the year.
