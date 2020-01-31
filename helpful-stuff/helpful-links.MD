@@ -1,4 +1,4 @@
-#These links could be helpful for certain situations we may be in. Please don't change the list and if you add to the list use the correct format.
+***These links could be helpful for certain situations we may be in. Please don't change the list and if you add to the list use the correct format.***
 
 http://scoreboard.uscyberpatriot.org - **Score to view during competitions**
 
