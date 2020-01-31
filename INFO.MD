@@ -38,6 +38,7 @@ Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**
 
 **Packet Tracer Stuff - TUPAC_SCRIPT_NAME**
 
+----------------------------------------------------------------------------------------------------------------------------------
 
 **Passwords: (MEMORIZE THESE)**
 
