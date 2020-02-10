@@ -2,12 +2,12 @@
 
 *This will show current team, info, possible announcments and more. All of our current scripts and helpful websites will also be posted here.*
 
-------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------
 
 C0DE R3D.2:
 Coach: Teri Mitchell
 
-CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader** - @SoarixLazy
+CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader**
 
 Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader**
 
