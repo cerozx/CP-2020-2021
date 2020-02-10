@@ -57,3 +57,10 @@ Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**
 ----------------------------------------------------------------------------------------------------------------------------------
 
 *Credit to Ardy who is now mentoring for helping us with certain code. He's been a great help to us and is one of the best mentors we have had.*
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+**In our current disposal we have 2 scripts as of 2/10/2020**
+
+*Current Linux Scripts:*
+1. `WIN_TH0T_SL4YER.bat`
