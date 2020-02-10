@@ -60,22 +60,22 @@ Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-**In our current disposal we have 2 scripts as of 2/10/2020**
+**In our current disposal we have 2 scripts as of 2/10/2020. We need more scripts for server and we need things for Packet Tracer.**
 
 
-*Current Windows Scripts:*
+***Current Windows Scripts:***
 
-1. WIN_TH0T_SL4YER.bat
+*1. WIN_TH0T_SL4YER.bat*
 
-*Current Server Scripts:*
+***Current Server Scripts:***
 
-1. (None)
+*1. (None)*
 
-*Current Linux Scripts:*
+***Current Linux Scripts:***
 
-1. UBU_S1MP_END3R.sh
+*1. UBU_S1MP_END3R.sh*
 
-*Current Packet Tracer Stuff*
+***Current Packet Tracer Stuff***
 
-1. (None)
+*1. (None)*
 
