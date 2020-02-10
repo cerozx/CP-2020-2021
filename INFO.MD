@@ -7,7 +7,7 @@
 C0DE R3D.2:
 Coach: Teri Mitchell
 
-CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader**
+CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader** - @SoarixLazy
 
 Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader**
 
