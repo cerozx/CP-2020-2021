@@ -63,6 +63,7 @@ Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**
 **In our current disposal we have 2 scripts as of 2/10/2020**
 
 *Current Linux Scripts:*
-1.`WIN_TH0T_SL4YER.bat`
+
+1. UBU_S1MP_END3R.sh
 
 *
