@@ -53,3 +53,7 @@ Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**
 ***Alright anyways over the summer we will practice and go through NetAcadmey things such as Packet Tracer, and just basic networking for the quiz we will have after round 3.***
 
 *-Suyash*
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+*Credit to Ardy who is now mentoring for helping us with certain code. He's been a great help to us and is one of the best mentors we have had.*
