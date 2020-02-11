@@ -4,7 +4,8 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-C0DE R3D.2:
+:boom: C0DE R3D.2: :boom:
+
 Coach: Teri Mitchell
 
 CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader**
