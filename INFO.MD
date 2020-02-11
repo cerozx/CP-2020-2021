@@ -4,19 +4,19 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-:boom: C0DE R3D.2: :boom:
+:boom:  C0DE R3D.2: :boom:
 
-:book: Coach: Teri Mitchell :book:
+:book:  Coach: Teri Mitchell  :book:
 
-:100: CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader** :100: 
+:100:  CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader**  :100: 
 
-:ramen: Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader** :ramen:	
+:ramen:  Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader**  :ramen:	
 
-:moneybag: Manager: **Kaden Kim** - Networking - **Member** :moneybag:
+:moneybag:  Manager: **Kaden Kim** - Networking - **Member**  :moneybag:
 
-:champagne:	Executive: **Daniel Hatfield** - Linux/Server - **Member** :champagne:	
+:champagne: 	Executive: **Daniel Hatfield** - Linux/Server - **Member**  :champagne:	
 
-:fire: Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member** :fire:	
+:fire: Mercenary:  **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**  :fire:	
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
