@@ -10,13 +10,13 @@
 
 :100: CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader** :100: 
 
-Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader**
+:ramen: Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader** :ramen:	
 
-Manager: **Kaden Kim** - Networking - **Member**
+:moneybag: Manager: **Kaden Kim** - Networking - **Member** :moneybag:
 
-Executive: **Daniel Hatfield** - Linux/Server - **Member**
+:champagne:	Executive: **Daniel Hatfield** - Linux/Server - **Member** :champagne:	
 
-Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**
+:fire: Mercenary: **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member** :fire:	
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
