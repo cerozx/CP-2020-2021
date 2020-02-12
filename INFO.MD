@@ -24,7 +24,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-# Summer Plans/Info
+# :sunny:	Summer Plans/Info :sunny:	
 
 *Ight listen here boys. This is the plan for the summer here and here out. Once everyone is on Discord we will all install VM Player. Then over time we will add more scripts to the scrips section. If you make a script follow the format listen below:*
 
