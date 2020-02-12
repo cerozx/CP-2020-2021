@@ -41,7 +41,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-**Passwords: (MEMORIZE THESE)**
+:lock:	**Passwords: (MEMORIZE THESE)** :lock:	
 
 1. **M4RYJ4N3$iX9ine420**
 
@@ -57,11 +57,11 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-*Credit to Ardy who is now mentoring for helping us with certain code. He's been a great help to us and is one of the best mentors we have had.*
+:sparkles:	*Credit to Ardy who is now mentoring for helping us with certain code. He's been a great help to us and is one of the best mentors we have had.*  :sparkles:	
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-**In our current disposal we have 2 scripts as of 2/10/2020. We need more scripts for server and we need things for Packet Tracer.**
+:scroll:	**In our current disposal we have 2 scripts as of 2/10/2020. We need more scripts for server and we need things for Packet Tracer.** :scroll:	
 
 
 ***Current Windows Scripts:***
