@@ -8,6 +8,8 @@
 
 ***3. After a competition you CANNOT talk about it with ANYONE until the scores are posted from that comeptition. Its obvious you aren't allowed to do it during comeptiion either.***
 
-***4. NEVER EVER open random .JAR FILES or open random .BASH, .SH, or any sort of file that can run commands. This will screw this over and if you do this it is called "PULLING A THOMAS.***
+***4. NEVER EVER open random .JAR FILES or open random .BASH, .SH, or any sort of file that can run commands. This will screw this over and if you break this rule it is called "PULLING A THOMAS.***
 
-***5. DO NOT add a password to the main user, if you DO make sure you write it down first CASE SENSETIVE and be SURE of it or this can screw us over comepletly. If you 
+***5. DO NOT add a password to the main user, if you DO make sure you write it down first CASE SENSETIVE and be SURE of it or this can screw us over comepletly. If you break this rule it is called "PULLING A MICHAEL".***
+
+***6. If you are assigned to a certain image stay on it, if someone is up eating or using the bathroom, DO NOT take their seat if they're working on a image. If you are just sitting there until they're back ABSOLUTELY DO NOT TOUCH THE MOUSE, KEYBOARD, TOUCHPAD, or the computer in general. In this comeptition there are things that if are even messed with a little it can screw us over entirely. If you break this rule it is called "PULLING A SUYASH".***
