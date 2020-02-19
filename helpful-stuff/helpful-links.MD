@@ -1,4 +1,8 @@
+----------------------------------------------------------------------------------------------------------------------------------
+
 ***These links could be helpful for certain situations we may be in. Please don't change the list and if you add to the list use the correct format.***
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 http://scoreboard.uscyberpatriot.org - **Score to view during competitions.**
 
@@ -10,3 +14,5 @@ https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/
 https://www.uscyberpatriot.org/competition/training-materials/training-modules - **Contains training moudules which can be used during a competition or to learn the basics of what we do.**
 
 https://www.uscyberpatriot.org/competition/current-competition/scores - **After competitions this will be useful to view our final score. NOTE: THE FINAL SCORE WILL BE POSTED SEVERAL DAYS AFTER A COMPETITION.**
+
+----------------------------------------------------------------------------------------------------------------------------------
