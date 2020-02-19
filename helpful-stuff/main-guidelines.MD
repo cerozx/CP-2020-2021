@@ -8,7 +8,7 @@
 
 ***3. After a competition, you CANNOT talk about it with ANYONE until the scores are posted from that competition. It's obvious you aren't allowed to do it during competition either.***
 
-***4. NEVER EVER open random .JAR FILES or open random .BASH FILES, or any sort of file that can run commands. This will screw this over and if you break this rule it is called "PULLING A THOMAS".***
+***4. NEVER EVER open random .JAR FILES or open random .BASH FILES, or any sort of file that can run commands (Includes .bat files unless it is a script we use and is verified for use). This will screw us over and if you break this rule it is called "PULLING A THOMAS".***
 
 ***5. DO NOT add a password to the main user, if you DO make sure you write it down first CASE SENSITIVE and be SURE of it or this can screw us over completely. If you break this rule it is called "PULLING A MICHAEL".***
 
