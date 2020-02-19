@@ -1,4 +1,8 @@
+----------------------------------------------------------------------------------------------------------------------------------
+
 # Credit to Sean "Forty Bot"
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 ## Notes
 
@@ -11,6 +15,8 @@ When you see the syntax `$word`, do not type it verbatim, but instead substitute
 When the order of steps does not matter, bullet points have been used instead of ordinals.
 
 To edit files, run `gedit`, a graphical editor akin to notepad; `nano`, a simple command-line editor; or `vim`, a powerful  but less intuitive command-line editor. Note that vim may need to be installed with `apt-get install vim`.
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 ## Checklist
 
