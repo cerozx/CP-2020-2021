@@ -12,7 +12,7 @@
 
 :ramen:  Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader**  :ramen:	
 
-:moneybag:  Manager: **Kaden Kim** - Networking - **Member**  :moneybag:
+:moneybag:  Manager: **Cameron Armstrong** - Networking - **Member**  :moneybag:
 
 :champagne: 	Executive: **Daniel Hatfield** - Linux/Server - **Member**  :champagne:	
 
