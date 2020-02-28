@@ -1,3 +1,5 @@
+----------------------------------------------------------------------------------------------------------------------------------
+
 # Cyberpatriot 2020-2021
 
 *This will show current team, info, possible announcments and more. All of our current scripts and helpful websites will also be posted here.*
