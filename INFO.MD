@@ -10,9 +10,9 @@
 
 :book:  Sensei: Teri Mitchell  :book:
 
-:100:  CEO: **Suyash Ojha** - Windows/Scripting/Server - **Leader**  :100: 
+:100:  CEO: **Suyash Ojha** - Windows/Scripting/Server - **Captain**  :100: 
 
-:ramen:  Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Co-Leader**  :ramen:	
+:ramen:  Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Member**  :ramen:	
 
 :moneybag:  Manager: **Cameron Armstrong** - Networking - **Member**  :moneybag:
 
