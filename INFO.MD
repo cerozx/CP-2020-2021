@@ -8,7 +8,7 @@
 
 :boom:  C0DE R3D.2: :boom:
 
-:book:  Sensei: Teri Mitchell  :book:
+:book:  Sensei: Teri Mitchell  :book: - **Coach**
 
 :100:  CEO: **Suyash Ojha** - Windows/Scripting/Server - **Captain**  :100: 
 
