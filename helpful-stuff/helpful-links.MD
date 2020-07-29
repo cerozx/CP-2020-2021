@@ -19,4 +19,6 @@ https://www.uscyberpatriot.org/competition/training-materials/training-modules -
 
 https://www.uscyberpatriot.org/competition/current-competition/scores - **After competitions this will be useful to view our final score. NOTE: THE FINAL SCORE WILL BE POSTED SEVERAL DAYS AFTER A COMPETITION.**
 
+https://securitytrails.com/blog/mitigating-ssh-based-attacks-top-15-best-security-practices - **Very helpful with securing ssh**
+
 ----------------------------------------------------------------------------------------------------------------------------------
