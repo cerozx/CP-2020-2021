@@ -6,7 +6,7 @@
 
 ***1. This rule should be basic, DO NOT EVER go to other team's competing areas at all. WE can be accused of cheating for this and can end up as DISQUALIFICATION***
 
-***2. Do not use scripts that are found online or distribute our scripts to other teams, if a team is wondering how we did so well or wants to know how to script simply say "Bob Ross"***
+***2. Do not use scripts that are found online or distribute our scripts to other teams, if a team is wondering how we did so well or wants to know how to script simply say "get good at video nub"***
 
 ***3. After a competition, you CANNOT talk about it with ANYONE until the scores are posted from that competition. It's obvious you aren't allowed to do it during competition either.***
 
