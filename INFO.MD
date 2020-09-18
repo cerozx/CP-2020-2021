@@ -18,7 +18,7 @@
 
 :champagne: 	Executive: **Daniel Hatfield** - Linux/Server - **Member**  :champagne:	
 
-:fire: Mercenary:  **Trent Hernendaz** - Plug/Hopefully Windows/Server - **Member**  :fire:	
+:fire: Mercenary:  **Unknown** - Hopefully Windows/Server - **Member**  :fire:	
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
