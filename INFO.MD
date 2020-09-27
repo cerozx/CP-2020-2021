@@ -18,7 +18,7 @@
 
 :champagne: 	Executive: **Daniel Hatfield** - Linux/Server - **Member**  :champagne:	
 
-:fire: Mercenary:  **Hugh Nguyen** - Ubuntu/Server - **Member**  :fire:	
+:fire: Mercenary:  **Hugh Nguyen** - Server/Networking - **Member**  :fire:	
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
