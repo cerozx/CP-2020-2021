@@ -14,11 +14,11 @@
 
 :ramen:  Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Member**  :ramen:	
 
-:moneybag:  Manager: **Cameron Armstrong** - Networking - **Member**  :moneybag:
+:moneybag:  Manager: **Cameron Armstrong** - Research/Server - **Member**  :moneybag:
 
 :champagne: 	Executive: **Daniel Hatfield** - Linux/Server - **Member**  :champagne:	
 
-:fire: Mercenary:  **Unknown** - Hopefully Windows/Server - **Member**  :fire:	
+:fire: Mercenary:  **Hugh Nguuyen** - Hopefully Ubuntu/Server - **Member**  :fire:	
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
