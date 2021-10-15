@@ -23,4 +23,4 @@ netsh advfirewall set allprofiles state on
 
 REM Disables Telnet I am still working on this one
 
-REM  This script is owned by C0DE R3D, developed by Suyash Ojha
+REM  This script is owned by C0DE BLUE, developed by Suyash Ojha
