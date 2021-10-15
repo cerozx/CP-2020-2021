@@ -348,3 +348,12 @@ echo. & echo The paths of files that were deleted can be found in %cd%\ScriptOut
 echo. & echo When you press a key, the Windows Features window will open.  If you don't want to change anything, just hit cancel.
 pause
 optionalfeatures.exe
+
+net accounts /lockoutduration:30
+net accounts /lockoutthreshold:6
+net accounts /lockoutwindow:30
+
+net accounts /minpwlen:10
+net accounts /maxpwage:30
+net accounts /minpwage:10
+net accounts /uniquepw:
