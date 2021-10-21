@@ -324,23 +324,8 @@ for %%S in (wersvc,wecsvc) do (
 echo. & echo Services configured.
 echo --------------------------------------------------------------------------------
 
-echo. & echo Misc. stuff (hosts, dns flushing, etc...)
-ipconfig /flushdns >> nul 2>&1
-REM Wasn't sure how CP would check it, so I just copied the default hosts file in.
-attrib -r -s %systemroot%\system32\drivers\etc\hosts >> nul 2>&1 
-REM Covering all my bases with these switches
-xcopy %cd%\scriptResources\hosts %systemroot%\system32\drivers\etc /Q /R /H /Y >> nul 2>&1
-REM Power configuration (require password on wakeup)
-powercfg -SETDCVALUEINDEX SCHEME_BALANCED SUB_NONE CONSOLELOCK 1
-powercfg -SETACVALUEINDEX SCHEME_BALANCED SUB_NONE CONSOLELOCK 1
-powercfg -SETDCVALUEINDEX SCHEME_MIN SUB_NONE CONSOLELOCK 1
-powercfg -SETDCVALUEINDEX SCHEME_MIN SUB_NONE CONSOLELOCK 1
-powercfg -SETDCVALUEINDEX SCHEME_MAX SUB_NONE CONSOLELOCK 1
-powercfg -SETDCVALUEINDEX SCHEME_MAX SUB_NONE CONSOLELOCK 1
-powercfg /SETACVALUEINDEX SCHEME_CURRENT SUB_NONE CONSOLELOCK 1
-powercfg /SETDCVALUEINDEX SCHEME_CURRENT SUB_NONE CONSOLELOCK 1
 
-echo. & echo It's all done folks.
+echo. & echo Complete, make sure everything ran well and if not restart the image.
 echo --------------------------------------------------------------------------------
 
 :end
