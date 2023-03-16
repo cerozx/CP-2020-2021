@@ -6,29 +6,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-:boom:  C0DE R3D.2: :boom:
-
-:book:  Sensei: Teri Mitchell  :book: - **Coach**
-
-:100:  CEO: **Suyash Ojha** - Windows/Scripting/Server - **Captain**  :100: 
-
-:ramen:  Co-CEO: **Hayden Smith** - Windows/Linux/Server - **Member**  :ramen:	
-
-:moneybag:  Manager: **Camron Armstrong** - Research/Server - **Member**  :moneybag:
-
-:champagne: 	Executive: **Daniel Hatfield** - Linux/Server - **Member**  :champagne:	
-
-:fire: Mercenary:  **Hugh Nguyen** - Server/Networking - **Member**  :fire:	
-
-----------------------------------------------------------------------------------------------------------------------------------
-
 :warning:	 *Spots could change so wait for the end of the year.*  :warning:	
 
 ----------------------------------------------------------------------------------------------------------------------------------
-
-# :sunny:	Summer Plans/Info :sunny:	
-
-*Ight listen here boys. This is the plan for the summer here and here out. Once everyone is on Discord we will all install VM Player. Then over time we will add more scripts to the scrips section. If you make a script follow the format listen below:*
 
 
 1. **Windows - WIN_SCRIPT_NAME**
@@ -43,19 +23,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-:lock:	**Passwords: (MEMORIZE THESE)** :lock:	
 
-1. **M4RYJ4N3$iX9ine420**
-
-2. **tH0t$l4Y3R69420**
-
-3. **g3kuM3$r3V3nGe_6_18_18**
-
-*These are current passwords, you may add one but please make sure it meets password policies*
-
-***Alright anyways over the summer we will practice and go through NetAcadmey things such as Packet Tracer, and just basic networking for the quiz we will have after round 3.***
-
-*-Suyash*
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
@@ -68,7 +36,7 @@
 
 ***Current Windows Scripts:***
 
-*1. WIN_TH0T_SL4YER.bat*
+*1. WIN.bat*
 
 ***Current Server Scripts:***
 
@@ -76,7 +44,7 @@
 
 ***Current Linux Scripts:***
 
-*1. UBU_S1MP_END3R.sh*
+*1. UBU.sh*
 
 ***Current Packet Tracer Stuff***
 
